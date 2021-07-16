@@ -1,0 +1,4 @@
+com/masai/a419june_event_listeners_saveuistates_we1/MainActivity.java
+ com.masai.a419june_event_listeners_saveuistates_we1.MainActivity
+com/masai/a419june_event_listeners_saveuistates_we1/BuildConfig.java
+ com.masai.a419june_event_listeners_saveuistates_we1.BuildConfig
